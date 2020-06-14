@@ -5,6 +5,7 @@ module.exports = {
   themeConfig: {
     sidebar: 'auto',
     search: false,
-    lastUpdated: 'Last Updated'
-  }
+    lastUpdated: 'Last Updated',
+    smoothScroll: true
+  },
 }
