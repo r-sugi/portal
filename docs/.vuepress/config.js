@@ -1,5 +1,6 @@
 module.exports = {
   themeConfig: {
-    sidebar: 'auto'
+    sidebar: 'auto',
+    search: false
   }
 }
