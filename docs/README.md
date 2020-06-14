@@ -2,7 +2,6 @@
 sidebar: auto
 ---
 # Ryo Sugimoto (r-sugi) CV
-<p>最終更新日: 2020.06.15</p>
 <p>English version: <strong>UPDATING</strong></p>
 
 ## 基本情報と連絡先
