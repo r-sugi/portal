@@ -118,11 +118,12 @@ sidebar: auto
 
 ## 資格
 - English
-  - (<strong>YYYY.MM</strong>) TOEIC 905
-- IPA
-  - (<strong>YYYY.MM</strong>) Java Programming Silver
-- accounting
-  - (<strong>YYYY.MM</strong>) 税理士試験科目3科目(簿記、財務諸表、消費税法)合格
+  - (<strong>2014.12</strong>) TOEIC 905
+- IT
+  - (<strong>2016.04</strong>) Java Programming Silver
+  - (<strong>2016.05</strong>) LPIC Level 1
+- Accounting
+  - (<strong>2014.04</strong>) 税理士試験科目3科目(簿記、財務諸表、消費税法)合格
 
 ## 興味 / 関心
 興味関心に関する説明。
