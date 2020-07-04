@@ -67,6 +67,10 @@ jobs:
                 {
                   "title": "Compare URL",
                   "value": "${{ github.event.compare }}"
+                },
+                {
+                  "title": "Repository Description",
+                  "value": "${{ github.event.repository.description }}"
                 }
               ]
             }
